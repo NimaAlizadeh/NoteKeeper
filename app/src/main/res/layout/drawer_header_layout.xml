@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_140mdp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/drawer_imageView"
+        android:layout_width="@dimen/_50mdp"
+        android:layout_height="@dimen/_50mdp"
+        android:src="@color/black"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_margin="@dimen/_16mdp" />
+
+    <TextView
+        android:id="@+id/drawer_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="@id/drawer_imageView"
+        app:layout_constraintTop_toBottomOf="@id/drawer_imageView"
+        android:layout_marginTop="@dimen/_15mdp"
+        android:textStyle="bold"
+        android:textSize="@dimen/_20font_mdp"
+        android:textColor="@color/black"
+        android:text="Welcome"/>
+
+    <TextView
+        android:id="@+id/drawer_body"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="@id/drawer_imageView"
+        app:layout_constraintTop_toBottomOf="@id/drawer_title"
+        android:layout_marginTop="@dimen/_3mdp"
+        android:textStyle="bold"
+        android:textSize="@dimen/_11font_mdp"
+        android:textColor="@color/gray"
+        android:text="nima.alizadeh93926@gmail.com"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:background="@drawable/drawer_view_shape"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

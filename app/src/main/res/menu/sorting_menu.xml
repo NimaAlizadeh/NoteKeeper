@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/sorting_menu_priority" android:title="Priority"/>
+    <item android:id="@+id/sorting_menu_date" android:title="Date"/>
+    <item android:id="@+id/sorting_menu_title" android:title="Title"/>
+</menu>

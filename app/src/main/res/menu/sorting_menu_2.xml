@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/sorting_menu_2_Ascending" android:title="Ascending"
+        android:icon="@drawable/ic_baseline_arrow_drop_up_24" app:showAsAction="withText"/>
+    <item android:id="@+id/sorting_menu_2_Descending" android:title="Descending"
+        android:icon="@drawable/ic_baseline_arrow_drop_down_24" app:showAsAction="withText" />
+</menu>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/light_gray"
+    android:elevation="@dimen/_4mdp">
+
+    <TextView
+        android:layout_width="@dimen/_100mdp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="Sort by"
+        android:layout_marginBottom="@dimen/_5mdp"
+        android:layout_marginTop="@dimen/_5mdp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:textColor="@color/black"
+        android:id="@+id/priority_down"
+        android:padding="@dimen/_5mdp"
+        android:layout_width="@dimen/_100mdp"
+        android:layout_height="match_parent"
+        android:text="priority"
+        android:background="@color/light_gray"
+        android:drawableStart="@drawable/ic_baseline_arrow_drop_down_24"/>
+
+    <View
+        android:layout_width="@dimen/_100mdp"
+        android:layout_height="2dp"
+        android:background="#EDEDED"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:textColor="@color/black"
+        android:id="@+id/priority_up"
+        android:padding="@dimen/_5mdp"
+        android:layout_width="@dimen/_100mdp"
+        android:layout_height="match_parent"
+        android:text="priority"
+        android:background="@color/light_gray"
+        android:drawableStart="@drawable/ic_baseline_arrow_drop_up_24"/>
+
+    <View
+        android:layout_width="@dimen/_100mdp"
+        android:layout_height="2dp"
+        android:background="#EDEDED"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:textColor="@color/black"
+        android:id="@+id/title_down"
+        android:padding="@dimen/_5mdp"
+        android:drawableStart="@drawable/ic_baseline_arrow_drop_down_24"
+        android:layout_width="@dimen/_100mdp"
+        android:layout_height="match_parent"
+        android:text="title"
+        android:background="@color/light_gray"/>
+
+    <View
+        android:layout_width="@dimen/_100mdp"
+        android:layout_height="2dp"
+        android:background="#EDEDED"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:textColor="@color/black"
+        android:id="@+id/title_up"
+        android:layout_width="@dimen/_100mdp"
+        android:layout_height="match_parent"
+        android:background="@color/light_gray"
+        android:drawableStart="@drawable/ic_baseline_arrow_drop_up_24"
+        android:padding="@dimen/_5mdp"
+        android:text="title" />
+
+    <View
+        android:layout_width="@dimen/_100mdp"
+        android:layout_height="2dp"
+        android:background="#EDEDED"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:textColor="@color/black"
+        android:id="@+id/date_down"
+        android:padding="@dimen/_5mdp"
+        android:layout_width="@dimen/_100mdp"
+        android:layout_height="match_parent"
+        android:text="date"
+        android:background="@color/light_gray"
+        android:drawableStart="@drawable/ic_baseline_arrow_drop_down_24"/>
+
+    <View
+        android:layout_width="@dimen/_100mdp"
+        android:layout_height="2dp"
+        android:background="#EDEDED"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:textColor="@color/black"
+        android:id="@+id/date_up"
+        android:padding="@dimen/_5mdp"
+        android:layout_width="@dimen/_100mdp"
+        android:layout_height="match_parent"
+        android:text="date"
+        android:background="@color/light_gray"
+        android:drawableStart="@drawable/ic_baseline_arrow_drop_up_24"/>
+
+</LinearLayout>

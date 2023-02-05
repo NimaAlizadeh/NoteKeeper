@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/app/src/main/res/drawable/asdwad.xml" value="0.1835" />
+        <entry key="..\:/Android/app/src/main/res/drawable/back_ground_detail_frag.xml" value="0.1625" />
+        <entry key="..\:/Android/app/src/main/res/drawable/buttons_shape.xml" value="0.1595" />
+        <entry key="..\:/Android/app/src/main/res/drawable/color_gradient_shape.xml" value="0.1" />
+        <entry key="..\:/Android/app/src/main/res/drawable/drawer_view_shape.xml" value="0.1835" />
+        <entry key="..\:/Android/app/src/main/res/drawable/edit_text_shape.xml" value="0.148" />
+        <entry key="..\:/Android/app/src/main/res/drawable/filter_buttons_shape.xml" value="0.1625" />
+        <entry key="..\:/Android/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1615" />
+        <entry key="..\:/Android/app/src/main/res/drawable/just_stroke_shape.xml" value="0.1625" />
+        <entry key="..\:/Android/app/src/main/res/drawable/new_edit_line_shape.xml" value="0.1" />
+        <entry key="..\:/Android/app/src/main/res/drawable/shadow_shape.xml" value="0.155" />
+        <entry key="..\:/Android/app/src/main/res/layout-v26/fragment_new_edit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android/app/src/main/res/layout/drawer_header_layout.xml" value="0.264" />
+        <entry key="..\:/Android/app/src/main/res/layout/empty_list_layout.xml" value="0.253125" />
+        <entry key="..\:/Android/app/src/main/res/layout/filtering_orders_layout.xml" value="0.264" />
+        <entry key="..\:/Android/app/src/main/res/layout/fragment_detail.xml" value="0.264" />
+        <entry key="..\:/Android/app/src/main/res/layout/fragment_favorites.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/layout/fragment_new_edit.xml" value="0.264" />
+        <entry key="..\:/Android/app/src/main/res/layout/fragment_notes.xml" value="0.264" />
+        <entry key="..\:/Android/app/src/main/res/layout/fragment_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/layout/fyghuj.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/layout/note_recycler_layout.xml" value="0.264" />
+        <entry key="..\:/Android/app/src/main/res/layout/spinner_custom_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/menu/detail_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/menu/drawer_menu.xml" value="0.1" />
+        <entry key="..\:/Android/app/src/main/res/menu/filtering_menu.xml" value="0.19722222222222222" />
+        <entry key="..\:/Android/app/src/main/res/menu/new_edit_toolbar_menu.xml" value="0.17037037037037037" />
+        <entry key="..\:/Android/app/src/main/res/menu/recycler_items_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/menu/sorting_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/menu/sorting_menu_2.xml" value="0.253125" />
+        <entry key="..\:/Android/app/src/main/res/menu/toolbar_menu.xml" value="0.264" />
+        <entry key="..\:/NoteKeeper/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1805" />
+        <entry key="..\:/NoteKeeper/app/src/main/res/layout/fragment_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/NoteKeeper/app/src/main/res/layout/fragment_notes.xml" value="0.25416666666666665" />
+        <entry key="..\:/NoteKeeper/app/src/main/res/layout/note_recycler_layout.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Search" android:id="@+id/menu_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:iconTint="@color/black"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+
+    <item android:title="List Shape" android:id="@+id/menu_list_shape"
+        android:icon="@drawable/ic_baseline_grid_view_24"
+        app:showAsAction="always" android:iconTint="@color/black"/>
+
+    <item android:title="Filter" android:id="@+id/menu_filter"
+        android:icon="@drawable/ic_baseline_filter_list_24"
+        app:showAsAction="always" android:iconTint="@color/black"/>
+
+</menu>
