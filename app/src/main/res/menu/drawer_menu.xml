@@ -2,10 +2,10 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/favorites_drawer" android:title="Favorite Notes"
         android:icon="@drawable/favorite_filled"/>
-    <item android:id="@+id/remind_drawer" android:title="Reminders"
-        android:icon="@drawable/clock"/>
-    <item android:id="@+id/settings_drawer" android:title="Settings"
-        android:icon="@drawable/ic_baseline_settings_24"/>
+<!--    <item android:id="@+id/remind_drawer" android:title="Reminders"-->
+<!--        android:icon="@drawable/clock"/>-->
+<!--    <item android:id="@+id/settings_drawer" android:title="Settings"-->
+<!--        android:icon="@drawable/ic_baseline_settings_24"/>-->
     <item android:id="@+id/aboutMe_drawer" android:title="About Me"
         android:icon="@drawable/about_us"/>
 </menu>

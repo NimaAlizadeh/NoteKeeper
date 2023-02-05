@@ -217,7 +217,7 @@ class NotesFragment : Fragment()
             //set onClickListener for navigation drawer items
             mainNavigationView.setNavigationItemSelectedListener {
                 when (it.itemId) {
-                    R.id.settings_drawer -> findNavController().navigate(R.id.action_notesFragment_to_settingsFragment)
+//                    R.id.settings_drawer -> findNavController().navigate(R.id.action_notesFragment_to_settingsFragment)
                     R.id.aboutMe_drawer -> {
                         val alert = AlertDialog.Builder(context)
                         alert.setTitle("About Me")
@@ -226,7 +226,7 @@ class NotesFragment : Fragment()
                             .create()
                             .show()
                     }
-                    R.id.remind_drawer -> {}
+//                    R.id.remind_drawer -> {}
                     R.id.favorites_drawer -> findNavController().navigate(R.id.action_notesFragment_to_favoritesFragment)
                 }
 

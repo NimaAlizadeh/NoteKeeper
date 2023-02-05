@@ -39,6 +39,9 @@
         <entry key="..\:/NoteKeeper/app/src/main/res/layout/fragment_detail.xml" value="0.25416666666666665" />
         <entry key="..\:/NoteKeeper/app/src/main/res/layout/fragment_notes.xml" value="0.25416666666666665" />
         <entry key="..\:/NoteKeeper/app/src/main/res/layout/note_recycler_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/NoteKeeper/app/src/main/res/menu/detail_menu.xml" value="0.14444444444444443" />
+        <entry key="..\:/NoteKeeper/app/src/main/res/menu/drawer_menu.xml" value="0.264" />
+        <entry key="..\:/NoteKeeper/app/src/main/res/menu/new_edit_toolbar_menu.xml" value="0.14444444444444443" />
       </map>
     </option>
   </component>
